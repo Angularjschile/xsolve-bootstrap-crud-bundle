@@ -1,5 +1,5 @@
 {
-    "name": "Angularjschile/xsolve-bootstrap-crud-bundle",
+    "name": "angularjschile/symfony-angular-bootstrap-crud",
     "type": "library",
     "version": "1.0.0",
     "keywords":     ["bootstrap", "twitter", "CRUD"],
