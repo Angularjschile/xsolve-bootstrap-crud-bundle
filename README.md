@@ -1,4 +1,4 @@
-XsolveBootstrapCrudBundle
+Symfony - Angularjs - Bootstrap - Crud
 =================
 
 By [Piotr Pasich](http://xsolve.pl)
