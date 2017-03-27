@@ -8,10 +8,7 @@
         "psr-0": {
             "Xsolve\\BootstrapCrudBundle": ""
         }
-    },
-    "require": {
-        "braincrafted/bootstrap-bundle": "v1.4.2" 
-    },
+    }, 
     "license": "MIT",
     "authors": [
         {
