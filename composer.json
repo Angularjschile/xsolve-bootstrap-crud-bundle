@@ -1,7 +1,7 @@
 {
     "name": "angularjschile/symfony-angular-bootstrap-crud",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords":     ["bootstrap", "twitter", "CRUD"],
     "description": "XSolve Twitter Bootstrap bundle with CRUD generator and an example layout",
     "autoload": {
